@@ -1,1 +1,1 @@
-# stepik_auto_tests_course
+# stepik_auto_tests_course I'm going to write auto-tests on Python language 
